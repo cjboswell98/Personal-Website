@@ -124,13 +124,13 @@ nav a{
     left: 0;
   }
   .image1 {
-    position: relative;
+    position: absolute;
     top: 42px;
     left: -381px;
     width: 644px;
   }
   .image2 {
-    position: relative;
+    position: absolute;
     top: -49px;
     left: 332px;
     width: 537px;
